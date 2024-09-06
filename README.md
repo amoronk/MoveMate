@@ -54,4 +54,4 @@ The bottom navigation bar highlights the current screen:
 ## Next Steps
 - Fine-tune the animations.
 
-This project replicates the Movemate Shipments app’s UI and animations using Jetpack Compose. Feel free to explore and modify it!
+This project replicates the Movemate Shipments app’s UI and animations using Jetpack Compose.
