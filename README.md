@@ -4,7 +4,7 @@
 This project replicates the screens and animations from the [Movemate Shipments Mobile App](https://dribbble.com/shots/21617837-Movemate-Shipments-Mobile-App) using **Jetpack Compose**. The goal was to closely match the design and animations for the **Home**, **Search**, **Calculate**, and **Shipment** screens.
 
 ## App Demo
-[!AppDemo](https://github.com/user-attachments/assets/e60fd52b-9aab-4a58-9997-825844426ee0)
+[AppDemo](https://github.com/user-attachments/assets/e60fd52b-9aab-4a58-9997-825844426ee0)
 
 ## Screens Implemented
 
